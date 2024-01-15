@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "mobarez-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,18 +20,20 @@
     "sanitize-html": "^2.11.0",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://khashayarmobarez.github.io/mobarez-blog-page",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "rm -rf build"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
+  "extends": [
+    "react-app",
+    "react-app/jest"
+  ],
   "browserslist": {
     "production": [
       ">0.2%",
@@ -45,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.1.1"
   }
 }

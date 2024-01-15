@@ -15,6 +15,7 @@ function App() {
         <Route path='/' element={<HomePage/>} />
         <Route path='/Blogs/:urlSlug' element={<BlogPage/>} />
         <Route path='/Authors/:slug' element={<AuthorPage/>} />
+        <Route path='/*' element={<HomePage/>} />
       </Routes>
     </Layout>
   );

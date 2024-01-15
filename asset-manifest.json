@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mobarez-blog-page/static/css/main.4b4ca395.css",
+    "main.js": "/mobarez-blog-page/static/js/main.98986df9.js",
+    "static/media/PlayfairDisplay-SemiBold.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-SemiBold.8762ccb8000d27202454.ttf",
+    "static/media/PlayfairDisplay-Medium.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-Medium.b6b10a3a3492328a0c3f.ttf",
+    "static/media/PlayfairDisplay-Bold.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-Bold.c3c9165182044bf7f179.ttf",
+    "static/media/PlayfairDisplay-Black.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-Black.190639ba716b8b9dd2b1.ttf",
+    "static/media/PlayfairDisplay-Regular.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-Regular.6a97b5c64f316f567fa1.ttf",
+    "static/media/PlayfairDisplay-BoldItalic.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-BoldItalic.235ec6cc537f1e18ad62.ttf",
+    "static/media/PlayfairDisplay-Italic.ttf": "/mobarez-blog-page/static/media/PlayfairDisplay-Italic.3d2a766b7526c6375825.ttf",
+    "index.html": "/mobarez-blog-page/index.html",
+    "static/media/index.cjs": "/mobarez-blog-page/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.4b4ca395.css.map": "/mobarez-blog-page/static/css/main.4b4ca395.css.map",
+    "main.98986df9.js.map": "/mobarez-blog-page/static/js/main.98986df9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4ca395.css",
+    "static/js/main.98986df9.js"
+  ]
+}
